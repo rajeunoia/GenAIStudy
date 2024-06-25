@@ -11,11 +11,12 @@ https://www.youtube.com/watch?v=bCz4OMemCcA
 https://www.youtube.com/watch?v=SMZQrJ_L1vo
   Basic, Self, Multi headed Attention
 
-NLP TOPICS TO BE COVERED
+NLP Topics to be covered:
 1. POS Tagging
 2. NER
 3. TF-IDF
 
+GenAI Topics to be covered:
 1. Fine Tunning 
 2. Prompting
 3. Few Shot , Zero Shot learning
