@@ -1,0 +1,14 @@
+As a reference , I am using this Github project, https://github.com/krishnaik06/Google-Gemini-Crash-Course.git
+Checkout that project on VSCode
+
+conda create -n nutri python=3.11.5 jupyter 
+conda activate nutri      
+pip install -r requirements.txt   
+
+export GOOGLE_API_KEY=XXXXXXXXXXXXXXXX
+  (How to generate GEMINI API key )
+  go to https://aistudio.google.com/app/apikey , Click Create API Key and use that key , Free of charge
+
+(after you are in the project app)
+streamlit run health.py
+
