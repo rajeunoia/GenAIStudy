@@ -3,29 +3,29 @@
 
 [Click here for Day 2 link](https://www.youtube.com/watch?v=PD1XvVJ24Go)
 
-**Summary**
+**Summary**<br/>
 
-Day 2 of the Generative AI study emphasizes the importance of foundational knowledge in machine learning, advocating for gradual learning over quick fixes.
+Day 2 of the Generative AI study emphasizes the importance of foundational knowledge in machine learning, advocating for gradual learning over quick fixes.<br/>
 
-**Highlights**
-📚 Focus on foundational knowledge in AI.
-🐢 Emphasize gradual learning with baby steps.
-💡 Importance of understanding machine learning basics.
-🤖 AI mimics human learning behavior.
-🔄 Adaptability and feedback are crucial for learning.
-🔍 Recognizing patterns is key to intelligence.
-🎯 Generalization helps in real-world applications.
+**Highlights**<br/>
+📚 Focus on foundational knowledge in AI.<br/>
+🐢 Emphasize gradual learning with baby steps.<br/>
+💡 Importance of understanding machine learning basics.<br/>
+🤖 AI mimics human learning behavior.<br/>
+🔄 Adaptability and feedback are crucial for learning.<br/>
+🔍 Recognizing patterns is key to intelligence.<br/>
+🎯 Generalization helps in real-world applications.<br/>
 
-**Key Insights**
-🧠 Foundational Knowledge: A strong understanding of the basics is essential for grasping more complex AI concepts. This ensures deeper comprehension and application later on.
-🐢 Gradual Learning: Rushing through content often leads to superficial knowledge. Taking small, manageable steps helps solidify understanding and retention.
-🔄 Feedback Mechanism: Learning from mistakes and feedback is vital. It allows for adaptation and improvement in both humans and machines.
-🤖 Human-like Behavior: Machine learning aims to replicate human cognition, emphasizing the need for machines to learn, adapt, and make decisions autonomously.
-🔍 Pattern Recognition: The ability to identify and analyze patterns is foundational for AI intelligence. It reflects the learning process akin to human cognition.
-🎯 Generalization: Effective learning involves not just memorizing but also applying knowledge across varied contexts, which enhances problem-solving capabilities.
-⚙️ Application Focus: Understanding machine learning is not just theoretical; it involves practical application, which is essential for real-world problem-solving.
+**Key Insights**<br/>
+🧠 Foundational Knowledge: A strong understanding of the basics is essential for grasping more complex AI concepts. This ensures deeper comprehension and application later on.<br/>
+🐢 Gradual Learning: Rushing through content often leads to superficial knowledge. Taking small, manageable steps helps solidify understanding and retention.<br/>
+🔄 Feedback Mechanism: Learning from mistakes and feedback is vital. It allows for adaptation and improvement in both humans and machines.<br/>
+🤖 Human-like Behavior: Machine learning aims to replicate human cognition, emphasizing the need for machines to learn, adapt, and make decisions autonomously.<br/>
+🔍 Pattern Recognition: The ability to identify and analyze patterns is foundational for AI intelligence. It reflects the learning process akin to human cognition.<br/>
+🎯 Generalization: Effective learning involves not just memorizing but also applying knowledge across varied contexts, which enhances problem-solving capabilities.<br/>
+⚙️ Application Focus: Understanding machine learning is not just theoretical; it involves practical application, which is essential for real-world problem-solving.<br/>
 
-**Transcripts:**
+**Transcripts:**<br/>
 
 00:00:02	hey um hi everyone so good morning today it's um going to be day two um of our study time for generative AI um yesterday day one we have um completed the intro to AI um actually we are supposed to go through some kind of a course blog materials kind of stuff U we learned it with chat GPT to some extent which is not um it doesn't cover extensively a larger scope but um the thinking the other way I felt it is good um instead of um instead of going in a high speed trying to put in a lot of content into it and
 

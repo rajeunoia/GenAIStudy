@@ -3,29 +3,29 @@
 
 [Click here for Day 1 link](https://www.youtube.com/watch?v=TbJDBQhUtHY)
 
-**Summary**
-The video discusses a study plan for learning artificial intelligence, covering its definition, relevance, and the steps to gain knowledge in the field.
+**Summary**<br/>
+The video discusses a study plan for learning artificial intelligence, covering its definition, relevance, and the steps to gain knowledge in the field.<br/>
 
-**Highlights**
-📅 Day 1 focuses on creating a study plan for AI.
-💡 Understanding AI requires clarity and communication.
-🧠 Intelligence involves looking, understanding, analyzing, and responding.
-📊 Learning is incremental and relies on previous knowledge.
-🤖 AI mimics human intelligence through algorithms and data.
-📚 The journey includes various resources like videos and blogs.
-🚀 Future sessions will cover machine learning basics.
+**Highlights**<br/>
+📅 Day 1 focuses on creating a study plan for AI.<br/>
+💡 Understanding AI requires clarity and communication.<br/>
+🧠 Intelligence involves looking, understanding, analyzing, and responding.<br/>
+📊 Learning is incremental and relies on previous knowledge.<br/>
+🤖 AI mimics human intelligence through algorithms and data.<br/>
+📚 The journey includes various resources like videos and blogs.<br/>
+🚀 Future sessions will cover machine learning basics.<br/>
 
-**Key Insights**
-📖 AI Definition: Understanding the concept of AI is essential as it shapes how individuals and teams approach technology development. Clear definitions lead to better collaboration.
-🔍 Intelligence Process: The stages of looking, understanding, analyzing, and responding highlight the complexity of intelligence and its application in real-life scenarios. Each stage builds on the previous one.
-📈 Incremental Learning: Knowledge acquisition in AI is a gradual process influenced by prior experiences, indicating the importance of a solid foundation in related subjects.
-🔄 AI vs. Natural Intelligence: AI systems simulate human cognitive functions but lack the emotional and social understanding that humans possess, showing the limitations of current technology.
-📊 Resource Utilization: Leveraging various resources like YouTube and blogs can enhance learning, emphasizing the role of diverse materials in comprehending complex subjects.
-🌱 Future Learning Goals: Setting clear targets for each study session fosters continuity and growth, ensuring that learners remain focused and motivated in their AI journey.
-🌍 Contextual Relevance: Understanding AI in different contexts (e.g., emergency response) illustrates how knowledge can be applied practically, reinforcing the need for adaptable learning.
+**Key Insights**<br/>
+📖 AI Definition: Understanding the concept of AI is essential as it shapes how individuals and teams approach technology development. Clear definitions lead to better collaboration.<br/>
+🔍 Intelligence Process: The stages of looking, understanding, analyzing, and responding highlight the complexity of intelligence and its application in real-life scenarios. Each stage builds on the previous one.<br/>
+📈 Incremental Learning: Knowledge acquisition in AI is a gradual process influenced by prior experiences, indicating the importance of a solid foundation in related subjects.<br/>
+🔄 AI vs. Natural Intelligence: AI systems simulate human cognitive functions but lack the emotional and social understanding that humans possess, showing the limitations of current technology.<br/>
+📊 Resource Utilization: Leveraging various resources like YouTube and blogs can enhance learning, emphasizing the role of diverse materials in comprehending complex subjects.<br/>
+🌱 Future Learning Goals: Setting clear targets for each study session fosters continuity and growth, ensuring that learners remain focused and motivated in their AI journey.<br/>
+🌍 Contextual Relevance: Understanding AI in different contexts (e.g., emergency response) illustrates how knowledge can be applied practically, reinforcing the need for adaptable learning.<br/>
 
 
-**Transcripts:**
+**Transcripts:**<br/>
 00:00:10	hey uh hi everyone so today we will focus on uh um the study plan from today um I'll see if I can share my screen uh window Chrome D window and Screen yeah screen is better so this is more um planning session today on um what we going to do and stuff so what's the focus so or what is the target so clear the target is to gain good knowledge artificial intelligence so start our journey towards exper field so so we'll put it broadly like that not sure I'm audible because I'm speaking very low which is okay for day
 
 00:02:28	one we'll improve it as we start off within Ain the next few days okay so today we'll start off with learning on what is artificial intelligence so why do we need toand Ai and have plan on how we are going to set up this Journey so we'll try to cover this three things um in today's plan um Al focus on how I am going to do it I'll be using S GPT to learn things and also online views as required Maybe YouTube videos our deep learning a are blogs the [Music] relevant information information sounds good okay let's get
